@@ -52,4 +52,4 @@ Con la carrera estoy sumando las bases que me faltaban: orientación a objetos, 
 datos y buenas prácticas.
 
 ## 📫 Contacto
-[LinkedIn]([LINK](https://www.linkedin.com/in/santiago-luro-463395367/?isSelfProfile=true)) · [Portfolio](LINK) · EMAIL
+[LinkedIn](https://www.linkedin.com/in/santiago-luro-463395367/?isSelfProfile=true) · [Portfolio](https://santiago.melvox.net) · santiagoluro006@gmail.com
