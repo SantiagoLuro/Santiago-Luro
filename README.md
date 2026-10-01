@@ -42,8 +42,11 @@ Consultas y modelado de bases de datos de Ingeniería de Datos I.
 
 ## 🛠️ Tecnologías
 **Uso en proyectos propios:** TypeScript, JavaScript, Node.js, PostgreSQL, SQLite, Git
+
 **Estoy aprendiendo en la facultad:** Java (POO), SQL Server
+
 **Deploy:** servidor Linux con PM2, Vercel, Netlify
+
 **IA:** API de Claude, RAG con embeddings (Cohere)
 
 ## 🧑‍💻 Cómo llegué acá
