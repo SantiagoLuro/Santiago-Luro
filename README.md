@@ -1,12 +1,12 @@
 <h1 align="center">Hola, soy Santiago Luro 👋</h1>
 
 <p align="center">
-  Estudiante de 2.º año de <b>Ingeniería en Informatica en UADE</b> y fundador de <b><a href="https://melvox.net">Melvox</a></b>,<br>
+  Estudiante de 2.º año de <b>Ingeniería en Informática en UADE</b> y fundador de <b><a href="https://melvox.net">Melvox</a></b>,<br>
   una suite de productos con IA para pymes argentinas.
 </p>
 
 <p align="center">
-  <a href="https://santiago.melvox.net"><img src="https://img.shields.io/badge/Portfolio-00FFB2?style=for-the-badge&logo=firefoxbrowser&logoColor=0A0F1E" alt="Portfolio"></a>
+  <a href="https://santiago.melvox.net"><img src="badges/portfolio.svg" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/santiago-luro-463395367/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:santiagoluro006@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
@@ -66,7 +66,7 @@ Mi sitio personal, sin frameworks. Online en [santiago.melvox.net](https://santi
 **IA**
 
 ![Claude](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Cohere](https://img.shields.io/badge/Cohere_RAG-39594D?style=for-the-badge)
+![Cohere](badges/cohere.svg)
 
 **Deploy**
 
