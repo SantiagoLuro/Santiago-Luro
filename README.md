@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Santiago Luro 👋</h1>
 
 <p align="center">
-  Estudiante de 2.º año de <b>Ingeniería en Sistemas en UADE</b> y fundador de <b><a href="https://melvox.net">Melvox</a></b>,<br>
+  Estudiante de 2.º año de <b>Ingeniería en Informatica en UADE</b> y fundador de <b><a href="https://melvox.net">Melvox</a></b>,<br>
   una suite de productos con IA para pymes argentinas.
 </p>
 
